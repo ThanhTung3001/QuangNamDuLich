@@ -1,0 +1,1 @@
+class Sliderrectangle207ItemModel { }
